@@ -1,0 +1,7 @@
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\bin\Debug\GenericDelegatesApp.exe.config
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\bin\Debug\GenericDelegatesApp.exe
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\bin\Debug\GenericDelegatesApp.pdb
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\obj\Debug\GenericDelegatesApp.csprojAssemblyReference.cache
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\obj\Debug\GenericDelegatesApp.csproj.CoreCompileInputs.cache
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\obj\Debug\GenericDelegatesApp.exe
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\GenericDelegatesApp\obj\Debug\GenericDelegatesApp.pdb

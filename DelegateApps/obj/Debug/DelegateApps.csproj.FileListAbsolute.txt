@@ -1,0 +1,7 @@
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\bin\Debug\DelegateApps.exe.config
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\bin\Debug\DelegateApps.exe
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\bin\Debug\DelegateApps.pdb
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\obj\Debug\DelegateApps.csprojAssemblyReference.cache
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\obj\Debug\DelegateApps.csproj.CoreCompileInputs.cache
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\obj\Debug\DelegateApps.exe
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\DelegateApps\obj\Debug\DelegateApps.pdb

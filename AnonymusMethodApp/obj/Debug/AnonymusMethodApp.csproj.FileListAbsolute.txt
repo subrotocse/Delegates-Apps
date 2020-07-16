@@ -1,0 +1,7 @@
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\bin\Debug\AnonymusMethodApp.exe.config
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\bin\Debug\AnonymusMethodApp.exe
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\bin\Debug\AnonymusMethodApp.pdb
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\obj\Debug\AnonymusMethodApp.csprojAssemblyReference.cache
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\obj\Debug\AnonymusMethodApp.csproj.CoreCompileInputs.cache
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\obj\Debug\AnonymusMethodApp.exe
+E:\Entity Mosh Hamedany\C# .Net Features\DotNetApp\DelegateApps\AnonymusMethodApp\obj\Debug\AnonymusMethodApp.pdb
